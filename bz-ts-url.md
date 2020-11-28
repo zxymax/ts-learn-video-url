@@ -1,0 +1,8 @@
+- [极客TypeScript](https://www.bilibili.com/video/BV14E411v7MS?p=25)
+  ![alt 极客TypeScript](https://i1.hdslb.com/bfs/archive/93ca4a4dd50afde1db8407763865b156e09979c8.jpg@640w_400h.webp)
+- [精讲TypeScript](https://www.bilibili.com/video/BV1tE411v7Nw)
+- [gk-typescript](https://www.bilibili.com/video/BV18J411R792)
+- [TYPESCRIPT+KOA+VUE+MYSQL+NODEJS](https://www.bilibili.com/video/BV1o4411X7Xe)
+- [node+typescript+koa+vue美食商城项目](https://www.bilibili.com/video/BV1yV411673E)
+- [撩课-Typescript精讲-叶建华](https://www.bilibili.com/video/BV1sJ411P7s2)
+- [TypeScript](https://www.bilibili.com/video/BV1BJ411n7zD)
